@@ -36,7 +36,7 @@ Html directory of the above is copied from the official PostgreSQL html format d
 Generate "hhc" and "hhk" file:
 
 ```
-osdba-mac:gen_pgdoc_chm osdba$ ./gen_chm_prj.py -n Postgres-X2
+osdba-mac:gen_pgdoc_chm osdba$ ./gen_chm_prj.py -n PostgreSQL9.5.3-CN-v1.0
 Begin generate Postgres-X2.hhc ...................................................
 ..................................................................................
 ..................................................................................
@@ -143,6 +143,11 @@ Next:
 Next:
 
 ![image](img/html_help_workshop_018.jpg)
+
+
+Next:
+
+![image](img/html_help_workshop_018_2.jpg)
 
 Next:
 
